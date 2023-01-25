@@ -6,3 +6,7 @@ class pw
   
   }
 }
+ public static void main(){
+  
+   print("hello world"):{
+  
